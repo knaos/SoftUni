@@ -1,0 +1,5 @@
+E:\Nasko\Softuni\OOP_LAb\Solution\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe.config
+E:\Nasko\Softuni\OOP_LAb\Solution\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe
+E:\Nasko\Softuni\OOP_LAb\Solution\EnvironmentSystem\bin\Debug\EnvironmentSystem.pdb
+E:\Nasko\Softuni\OOP_LAb\Solution\EnvironmentSystem\obj\Debug\EnvironmentSystem.exe
+E:\Nasko\Softuni\OOP_LAb\Solution\EnvironmentSystem\obj\Debug\EnvironmentSystem.pdb

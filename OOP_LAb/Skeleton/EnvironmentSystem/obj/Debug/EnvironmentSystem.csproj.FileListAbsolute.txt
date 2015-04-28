@@ -1,0 +1,6 @@
+E:\Nasko\Softuni\OOP_LAb\Skeleton\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe.config
+E:\Nasko\Softuni\OOP_LAb\Skeleton\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe
+E:\Nasko\Softuni\OOP_LAb\Skeleton\EnvironmentSystem\bin\Debug\EnvironmentSystem.pdb
+E:\Nasko\Softuni\OOP_LAb\Skeleton\EnvironmentSystem\obj\Debug\EnvironmentSystem.csprojResolveAssemblyReference.cache
+E:\Nasko\Softuni\OOP_LAb\Skeleton\EnvironmentSystem\obj\Debug\EnvironmentSystem.exe
+E:\Nasko\Softuni\OOP_LAb\Skeleton\EnvironmentSystem\obj\Debug\EnvironmentSystem.pdb
